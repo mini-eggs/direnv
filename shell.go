@@ -45,6 +45,8 @@ func DetectShell(target string) Shell {
 		return JSON
 	case "elvish":
 		return ELVISH
+	case "cffi":
+		return CFFI
 	}
 
 	return nil
