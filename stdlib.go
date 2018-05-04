@@ -1,4 +1,4 @@
-package main
+package direnv
 
 const STDLIB = "#!bash\n" +
 	"#\n" +

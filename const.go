@@ -1,4 +1,4 @@
-package main
+package direnv
 
 const (
 	DIRENV_CONFIG = "DIRENV_CONFIG"

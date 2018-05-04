@@ -1,6 +1,6 @@
 // Command toml-test-encoder satisfies the toml-test interface for testing
 // TOML encoders. Namely, it accepts JSON on stdin and outputs TOML on stdout.
-package main
+package direnv
 
 import (
 	"encoding/json"
